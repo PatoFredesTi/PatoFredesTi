@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi there, I'm **Patricio Fredes**, a **Software Developer Jr** Form Chile. I Want to afront big challenges and lear so much!
+Hi there, I'm **Patricio Fredes**, a **Software Developer** Form Chile. I'm looking forward to be part of big projects and keep learning.
 
   <img align="right" alt="GIF" src="https://irfantariq.com/images/banner.gif" width="300"/>
 
@@ -16,13 +16,16 @@ Hi there, I'm **Patricio Fredes**, a **Software Developer Jr** Form Chile. I Wan
 - 👨🏽‍💻 I’m currently open to work and doing my personal Portfolio;
 - 🌱 I’m currently learning Javascript and React with differents courses; 
 - 🤔 My interests are Software development, specially Front end Development;
-<!-- - 💼 I’m pursuing a Bachelor's degree in Software Engineering; -->
-<!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
+- 💼 Graduated as Computer Technician from Federico Santa María University; 
+<!-- - 📝 See my [) to get more info. -->
 
 
 **Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" alt="HTML5" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
+<code><img height="40" alt="CSS3" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png"></code>
+<code><img height="40" alt="Javascript" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></code>
+<code><img height="40" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
+<code><img height="40" alt="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
+<code><img height="40" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"></code>
+<code><img height="40" alt="Figma" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
+<code><img height="40" alt="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"></code>
