@@ -1,7 +1,7 @@
-### Hey 👋, I'm Patricio
+### Hey 👋, I'm Patricio, Welcome to my Github
 
 <a href="https://www.linkedin.com/in/patriciofredesti/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://e7.pngegg.com/pngimages/107/287/png-clipart-line-angle-linkedin-angle-white.png" />
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <br />
