@@ -13,12 +13,13 @@ Hi there, I'm **Patricio Fredes**, a **Software Developer** Form Chile. I'm look
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently open to work and doing my personal Portfolio;
-- 🌱 I’m currently learning Javascript and React with differents courses; 
+- 👨🏽‍💻 I’m currently doing my personal Portfolio, upgrading my Github and solve differents Challenges;
+- 🌱 I’m presently stay learning Javascript and React with differents courses; 
 - 🤔 My interests are Software development, specially Front end Development;
 - 💼 Graduated as Computer Technician from Federico Santa María University; 
-- 🧿 I'm currently work in Customs Agency Stephens, in Valparaiso, Chile, we work with PHP, C# and others technologies.
+- 🧿 Now i'm working in Customs Agency Stephens, in Valparaiso, Chile, we work with PHP, C#, Javascript and others technologies.
 - ⏳ My personal's portfolio is in progress .... 
+- ⚔ Solve Differents Programming Challenges is my Hobbie
 <!-- - 📝 See my [) to get more info. -->
 
 
@@ -33,3 +34,4 @@ Hi there, I'm **Patricio Fredes**, a **Software Developer** Form Chile. I'm look
 <code><img height="40" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"></code>
 <code><img height="40" alt="Figma" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
 <code><img height="40" alt="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"></code>
+
