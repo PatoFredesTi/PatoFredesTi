@@ -1,7 +1,10 @@
 ### Hey 👋, I'm Patricio, Welcome to my Github
 
 <a href="https://www.linkedin.com/in/patriciofredesti/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="left" alt="LinkdeIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<a href="https://www.hackerrank.com/PatoFredesTi">
+  <img align="left" alt="Hackerrank" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
 
 <br />
