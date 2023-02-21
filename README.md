@@ -20,7 +20,7 @@ Hi there, I'm **Patricio Fredes**, a **Software Developer** Form Chile. I'm look
 - 🌱 I’m presently stay learning Javascript and React with differents courses; 
 - 🤔 My interests are Software development, specially Front end Development;
 - 💼 Graduated as Computer Technician from Federico Santa María University; 
-- 🧿 Now i'm working in Customs Agency Stephens, in Valparaiso, Chile, we work with PHP, C#, Javascript and others technologies.
+- 🧿 Now i'm working in AnguitaOsorio is a company that combines the state of the art in technology with the legal business model.
 - ⏳ My personal's portfolio is in progress .... 
 - ⚔ Solve Differents Programming Challenges is my Hobbie
 <!-- - 📝 See my [) to get more info. -->
