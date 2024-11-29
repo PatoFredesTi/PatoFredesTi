@@ -26,12 +26,12 @@
     <li>💼 Graduated as a Computer Technician from Federico Santa María University.</li>
     <li>🧿 Working at AnguitaOsorio, a company that combines cutting-edge technology with the legal business model.</li>
     <li>⏳ My personal portfolio is a work in progress.</li>
-    <li>⚔ Solving different programming challenges is my hobby.</li>
+    <li>⚔ Solving different programming challenges.</li>
   </ul>
 
   <p><strong>Projects:</strong></p>
 
-  - **[AplicacionTablaCriptomonedas](https://github.com/PatoFredesTi/AplicacionTablaCriptomonedas)**: Esta aplicación consume datos de una API para mostrar información relevante sobre criptomonedas en una tabla interactiva.
+  - **[AplicacionTablaCriptomonedas](https://github.com/PatoFredesTi/AplicacionTablaCriptomonedas)**: This application consumes data from an API to display relevant cryptocurrency information in an interactive table.
 
   [See more projects](https://github.com/PatoFredesTi?tab=repositories)
 
@@ -39,16 +39,16 @@
 
   <code><img height="40" alt="HTML5" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
   <code><img height="40" alt="CSS3" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png"></code>
-  <code><img height="60" alt="JavaScript" src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"></code>
-  <code><img height="60" alt="React" src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"></code>
-  <code><img height="60" alt="Python" src="https://camo.githubusercontent.com/52ec9548f75773e7841dd77f89a654e8a0bc2cce02da2eb43f84240f50351512/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"></code>
-  <code><img height="60" alt="Typescript" src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"></code>
+  <code><img height="45" alt="JavaScript" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"></code>
+  <code><img height="40" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
+  <code><img height="60" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"></code>
+  <code><img height="50" alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></code>
   <code><img height="60" alt="PHP" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"></code>
   <code><img height="60" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"></code>
-  <code><img height="60" alt="Github" src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"></code>
-  <code><img height="60" alt="Tailwind" src="https://camo.githubusercontent.com/90821127892b2ab8fed54a30b62e3875250c25b0ff2b0466eade956773d27126/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"></code>
-  <code><img height="60" alt="Bootstrap" src="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"></code>
-  <code><img height="60" alt="Amazon" src="https://camo.githubusercontent.com/e914c0e2dafdbf72f0a912f5620bf5048473024747e61323100770b0724ecd6e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667"></code>
+  <code><img height="60" alt="Github" src="https://cdn-icons-png.flaticon.com/256/25/25231.png"></code>
+  <code><img height="40" alt="Tailwind" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code>
+  <code><img height="40" alt="Bootstrap" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg"></code>
+  <code><img height="40" alt="Amazon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"></code>
 
   <p><strong>More Info:</strong></p>
   <p>Check out my <a href="https://your-portfolio-link.com">personal portfolio</a> for more information about my projects and experiences.</p>
