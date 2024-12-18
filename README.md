@@ -51,7 +51,7 @@
   <code><img height="40" alt="Amazon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"></code>
 
   <p><strong>More Info:</strong></p>
-  <p>Check out my <a href="https://your-portfolio-link.com">personal portfolio</a> for more information about my projects and experiences.</p>
+  <p>Check out my <a href="https://patriciofredes.dev">personal portfolio</a> for more information about my projects and experiences.</p>
 
 </div>
 
